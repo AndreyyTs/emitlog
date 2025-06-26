@@ -16,7 +16,7 @@ The package uses [zerolog](https://github.com/rs/zerolog) as the foundation for 
 
 ```bash
 go get github.com/rs/zerolog
-go get github.com/emitlog/emitlog
+go get github.com/AndreyyTs/emitlog
 ```
 
 EmitLog requires the `zerolog` library to function. Make sure you have a compatible version installed.
@@ -358,7 +358,7 @@ EmitLog — это Go пакет, который реализует условн
 
 ```bash
 go get github.com/rs/zerolog
-go get github.com/emitlog/emitlog
+go get github.com/AndreyyTs/emitlog
 ```
 
 EmitLog требует библиотеку `zerolog` для работы. Убедитесь, что у вас установлена совместимая версия.
